@@ -1,2 +1,2 @@
 我修改了
-我再master分支上修改
+Creating a new branch is quick and simple
